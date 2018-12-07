@@ -1,1 +1,3 @@
-hai everyone.This file is created and edited by Gitbash.My third line is edited after making commit as "first 2 line commit"  
+hai everyone.
+This file is created and edited by Gitbash.
+My third line is edited after making commit as "first 2 line commit"  
